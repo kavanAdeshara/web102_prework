@@ -4,7 +4,7 @@ Submitted by: **Kavan Adeshara**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **4** hours spent in total
+Time spent: **30** hours spent in total
 
 ## Required Features
 
@@ -17,13 +17,21 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Animated the website tile and logo upon hover
+* [x] Overhauled the UI to create Neon light aesthetic
+* [x] Added miscellaneous card animation and changed button and game card shapes.
+
+
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Iteration 1:
 
 <img src='https://github.com/kavanAdeshara/web102_prework/blob/main/website.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Iteration 2:
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCAP 
@@ -34,7 +42,7 @@ GIF created with LiceCAP
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learning curve with CSS animations (there is still so much to learn)
 
 ## License
 
