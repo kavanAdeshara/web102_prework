@@ -25,12 +25,13 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Iteration 1:
+### Iteration 1
 
 <img src='https://github.com/kavanAdeshara/web102_prework/blob/main/website.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Iteration 2:
+### Iteration 2
 
+<img src='https://github.com/kavanAdeshara/web102_prework/blob/main/iteration2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
